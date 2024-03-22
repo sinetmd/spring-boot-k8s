@@ -108,7 +108,7 @@
                         <image>eclipse-temurin:17-jre-focal</image>
                     </from>
                     <to>
-                        <image>docker.io/sinetztar/bookmaker-api-jib</image>
+                        <image>docker.io/sinetztar/bookmaker-api</image>
                         <tags>
                             <tag>latest</tag>
                             <tag>0.0.1</tag>
